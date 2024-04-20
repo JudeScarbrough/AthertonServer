@@ -117,10 +117,8 @@ def create_customer_portal_session():
         return jsonify({'error': str(e)}), 500
 
 
-
 if __name__ == '__main__':
-    context = ('/etc/letsencrypt/live/athertonmarketing.halomanagementserver.com/fullchain.pem',
-               '/etc/letsencrypt/live/athertonmarketing.halomanagementserver.com/privkey.pem')
+    # Paths to the certificate and key files, navigated from the 'stripe' directory
+    context = ('../../../../etc/letsencrypt/live/athertonmarketing.halomanagementserver.com/fullchain.pem',
+               '../../../../etc/letsencrypt/live/athertonmarketing.halomanagementserver.com/privkey.pem')
     app.run(host='0.0.0.0', port=443, ssl_context=context)
-
-
