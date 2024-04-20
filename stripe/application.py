@@ -104,7 +104,7 @@ def create_customer_portal_session():
         # Create a session for the customer portal
         session = stripe.billing_portal.Session.create(
             customer=stripe_customer_id,
-            return_url=f'http://{appUrl}',
+            return_url=f'http://{appUrl}/settings',
         )
 
         return jsonify({'url': session.url})
