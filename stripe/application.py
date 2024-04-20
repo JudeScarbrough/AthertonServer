@@ -20,6 +20,10 @@ firebase_admin.initialize_app(cred, {
     'databaseURL': 'https://atherton-marketing-default-rtdb.firebaseio.com/'
 })
 
+@app.route('/')
+def hello():
+    return '<h1>Halo Management</h1>'
+
 @app.route('/create-checkout-session', methods=['POST'])
 def create_checkout_session():
     data = request.get_json()
@@ -115,4 +119,4 @@ def create_customer_portal_session():
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=8080)
+    app.run(host='0.0.0.0', port=80)
