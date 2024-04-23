@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "atherton-marketing",
+  "private_key_id": "75d0d9ea5caddcbbc24051ade3df90ffd5e3f043",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCq3l1EDdcOQjWJ\nXQ1B+TIVGnWL/4I9Zqlt5aeh2NonnQLUZwnt9njGOb7LGtLE6+PwShmSXgp0KdNe\neSA568VJbfhWxmIIoHg9+Q9kWaNnrfqo467iWd61d8LOXEIose6lSStONaLvPQbY\nkbn0wZPvapvQ/93FWtFeYk0kGpQok/Kp6c8Jg0KRtvaFznfeyl0kkQsJRlbjsjQI\nFIwjUIaAgAvbVPTuZCuECvUBgF2/5EiU7mpBziuaLK52rJbmwVzUrdKTf1Zw0X8M\nLQnbsciAPu4lgUHo4i9DlyAstKt9kpm4axuoy6y3QZSw5CSnX9Yj57yVzU8iqvtJ\n3427QRgjAgMBAAECggEADe+3vlvn9SsZSsGNhJqv/GCoGGnCqay8l6YU7MfPI06p\nyGvkYhr+8Xa278Hu/E4bzUwolx5Bzq+1Tw36FD9SsWaIIYEUxeIGF1KVGs46MbP9\nryttkYYFpYTFyCcQ464qP3j0UJtiAA6uMZkmiFFcS47FHrV/1R+kgVpAiHf9Kuyk\nFoSCMOa2Gho4HkVHx3rIPHViM3YlF39wW4VBpiaJW9EyrRsqz1Oa8x4I007fjW7D\nSwKmJCfDbvLNTNQe5+pkXZoIiunKcJNDYjhgOTeMsm/n8qXsnIJajW5gksS+VHtW\n4XLQ6idAvNcLoM9DESBSrAnlsjsHIjYmJHIz+ak+IQKBgQDdLGPcn0KKYUZZYrsj\n4zu1JHNxnvOJM7NebigxN1znMNr8YNybRDY62Roc33zwVsm8kX4Bozn9udHr/Oco\neWPlxKhY9tTED7A4Z2FGlwQq4t5McBxhLS09fyLT8W8NuxvCDckfWXCi0AJ4PMBM\n+ALhLMU75DOMeIp40fmIZepLZwKBgQDFxinEsLT8WUrlZh8bbvNfDI3LkOBIVzWx\notmGgAaMGvf0SwAc4b8arrmcfZkIkRg2ndCFaXyiy47awj5zqWRIxF1NcSHavjb9\nM6dwbydMS1tosLTs4ImhgqNDjlmM+Hh4KeGJg4SpiieGlv6vHh6D28bp2+cWxJDh\nPAxxMXUT5QKBgQDA4DU18KzWgH4Y9UC9yywGjAMg0r0OqUeC0g263czm0HQoI1A/\nFv0z1KAxDbSm4wiKqVZ5lx67ZZDre2EaqsGzXgxxiM+DKytCBOWP6aJ4w9+YSSx2\nki8hsf1tVt7B2qoaUGtUK2tOkJeWw2Pvu1jHhYN690b8+SHIu1Qg3r+zgQKBgQCN\n7kBbX1UDJDGTn04DqgQN2jyIMlhCkhN+f5gL5iTMty3qq0hRcdBrnaimnZwNgdMW\nnvreQ22mht7mLzASYSYO8pzizqW1DXz5CPDIx3w0TIA1CVtOA3XB6rav7KBngokx\n8xxgS3oREYx8EjCEC+FqT3bYrW+R707p1OY49X1H4QKBgQDbQXRuL3MdUotgQnsC\nf1fbWdfC07khx+fXPNQkZhfvsqCiAU95tndCTUNaQ+wt8cDVTHN9XWzF2P0+Z2Bx\nDomccMlqk2k5nPP4TFDSPnFJGXhA8cmxs7K+GoUNw37QNKrO1ft8VGXgR73iCvGJ\nKp7QcQOkN5aaMilDNe31Qh2M9g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7r4fe@atherton-marketing.iam.gserviceaccount.com",
+  "client_id": "107824635848248102635",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7r4fe%40atherton-marketing.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
